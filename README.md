@@ -1,6 +1,10 @@
 # The World in One Map — Monday 23 November 2026
 
-make.fun entry for **news-image-20261123** (account B: keen-panda-72 / slothanabot).
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/slothanabot/news-image-20261123-b/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/slothanabot/news-image-20261123-b/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+make.fun entry for **news-image-20261123**.
 
 An atlas-style image summing up Monday 23 November 2026 world news: a
 large dot-grid world map with numbered pins for the top stories, a lead
